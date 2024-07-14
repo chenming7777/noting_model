@@ -30,8 +30,9 @@ Make it into json format based on each sections,Meeting Title,Agenda, Highlights
         3. Ensure the notes are clear and easy to understand.
         4. You must only base your notes on the transcript.
         5. Do not include people name, just the meeting note
+        6. do not add "json" in the beginning.
 
-        Use the following format for the notes and make it into pure direct usable json format:
+        Use the following format for the notes and make it into json format:
 
 
         Meeting Title: [Meeting Title]
